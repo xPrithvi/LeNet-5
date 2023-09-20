@@ -1,2 +1,3 @@
 # LeNet-5 on Jupyter Notebook
-LeNet-5, a convolution neural network (CNN), for digit recognition was replicated in PyTorch with feature visualisation via a gradient-based method. 
+[LeNet-5](LeNet-5/Lecun98.pdf), a convolution neural network (CNN), for digit recognition was replicated in PyTorch and trained on the [MNIST dataset]([LeNet-5/Lecun98.pdf](https://www.kaggle.com/datasets/hojjatk/mnist-dataset))
+dataset with feature visualisation via a gradient-based method. The rectified linear unit (ReLU) was used instead of the hyperbolic tangent function used in the orginal paper.
